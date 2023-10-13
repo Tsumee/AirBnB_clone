@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-# This file lists all individuals having contributed content to the repository.
-# For how it is generated, see `hack/generate-authors.sh`.
-
-Co-authored-by: Katlego Magombo <katlegomagombo@gmail.com>
-Co-authored-by: Tsumee Hazel Moloisi <tsumeemoloisi@gmail.com>
-=======
 # This file lists all contributors to the repository.
 Katlego Magombo <katlegomagombo@gmail.com>
 Tsumee Hazel Moloisi<Tsumeemoloisi@gmail.com>
->>>>>>> f4bb605d4f2383e1eab45d0dd1ca98646485c968
