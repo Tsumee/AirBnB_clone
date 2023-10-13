@@ -1,4 +1,4 @@
-0x00. AirBnB clone- The console Project by Thulani Ndlovu and Thami Mncwabe
+0x00. AirBnB clone- The console Project by Katlego Magombo and Tsumee Moloisi
 
 Task List
 
